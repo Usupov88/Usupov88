@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всех приветствую друзья! 👋
 
 <!--
 **Usupov88/Usupov88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
